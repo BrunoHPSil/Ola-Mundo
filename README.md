@@ -1,2 +1,5 @@
-# Ola Mundo
-Primeiro repositório do Git e Git hub
+# Olá, Mundo
+Primeiro repositório do Git e GitHub
+
+Repositório criado na primeira aula!
+
